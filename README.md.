@@ -1,0 +1,20 @@
+Profesyonel E-Ticaret Sitesi
+
+PHP ve OpenCart altyapısıyla geliştirilecek, mobil uyumlu ve yönetilebilir bir e-ticaret platformu.
+
+Temel Özellikler
+
+- Ürün ve kategori yönetimi
+- Müşteri ve sipariş yönetimi
+- Sepet ve ödeme sistemi
+- Stok ve fiyat takibi
+- Mobil uyumlu profesyonel tasarım
+- Yönetim paneli
+
+Entegrasyonlar
+
+- API/XML ile ürün aktarımı
+- Otomatik stok ve fiyat güncelleme
+- iyzico ödeme entegrasyonu
+
+İgzemer bağlantısı, standart e-ticaret sitesinin üzerine eklenecek bir entegrasyon özelliğidir. Proje yalnızca İgzemer'e bağlı değ
